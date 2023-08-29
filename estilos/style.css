@@ -96,7 +96,7 @@ form > div.campo > input{
     color: black;
     background-color: #49a09d;
     border: 2px solid #5f2c82;
-    transform: translateY(-7px);
+    transform: translateY(-6.6px);
 }
 
 form > div.campo > input:focus-within{
